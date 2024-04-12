@@ -29,7 +29,7 @@
 }
 
 #navbar__logo {
-   background-color: #ff8177;
+   background-color: #f6de26;
     background-image: linear-gradient(to top, #a70b0b 0%, #f6de26 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -215,7 +215,7 @@
 
 .main__content h1 {
     font-size: 4rem;
-    color: #ff8177;
+    color: #f6de26;
     background-image: linear-gradient(to top, #a70b0b 0%, #f6de26 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -226,7 +226,7 @@
 
 .main__content h2{
     font-size: 1rem;
-    color: #ff8177;
+    color: #f6de26;
     background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -344,8 +344,8 @@
 }
 
 .services h1{
-    background-color: #ff8177;
-    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    background-color: #f6de26;
+    background-image: linear-gradient(to right, #f6de26 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
