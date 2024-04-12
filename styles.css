@@ -377,12 +377,12 @@
     position: relative;
     color: white;
 }
-.box {
+.services__card.box {
     position: relative;
     transform-style: preserve-3d;
     border-radius: 0px;
   }
-  .box::before {
+  .services__card.box::before {
     content: "";
     position: absolute; 
     inset: 0px;
