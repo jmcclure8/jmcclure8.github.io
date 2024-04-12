@@ -377,6 +377,21 @@
     position: relative;
     color: white;
 }
+.box {
+    position: relative;
+    transform-style: preserve-3d;
+    border-radius: 0px;
+  }
+  .box::before {
+    content: "";
+    position: absolute; 
+    inset: 0px;
+    background: conic-gradient(from 90deg at 40% -25%, #ff3460, #899d03, #e23907, #63590a, #de740d, #d61033, #e461, #f31585, #cf1261, #d61039, #de0d0d, #ee6907, #f79d03, #ffd700, #ffd700, #ffd700);
+    filter: blur(10px);
+    transform: translate3d(51px,38px,-1px);
+    border-radius: inherit;
+    pointer-events: none;
+  }
 
 .services__card:nth-child(2){
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0)0%, rgba(17,17,17,0.6)100% ),
