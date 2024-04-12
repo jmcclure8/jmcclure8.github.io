@@ -94,7 +94,7 @@
 
 .button:hover {
     transition: all 0.3s ease;
-    background: #4837ff;
+    background: #850a0a;
 }
 
 .navbar__links:hover {
@@ -267,7 +267,7 @@
     left: 0;
     width: 0;
     height: 100%;
-    background: #4837ff;
+    background: #850a0a;
     transition: all 0.35s;
     border-radius: 4px;
 }
