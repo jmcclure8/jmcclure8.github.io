@@ -386,6 +386,7 @@
     background-size: cover;
     position: relative;
     color: white;
+    box-shadow: var(--shadow-elevation-high);
 }
 
 .services h2{
