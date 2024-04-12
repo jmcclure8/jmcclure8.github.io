@@ -5,31 +5,6 @@
     font-family: 'Kumbh Sans', sans-serif;
 }
 
-:root {
-    --shadow-color: 26deg 100% 26%;
-    --shadow-elevation-low:
-      -1px 1px 1.6px hsl(var(--shadow-color) / 0.34),
-      -1.7px 1.7px 2.7px -1.2px hsl(var(--shadow-color) / 0.34),
-      -4px 4px 6.4px -2.5px hsl(var(--shadow-color) / 0.34);
-    --shadow-elevation-medium:
-      -1px 1px 1.6px hsl(var(--shadow-color) / 0.29),
-      -2.6px 2.6px 4.1px -0.6px hsl(var(--shadow-color) / 0.29),
-      -5.2px 5.2px 8.3px -1.2px hsl(var(--shadow-color) / 0.29),
-      -10.4px 10.4px 16.5px -1.9px hsl(var(--shadow-color) / 0.29),
-      -20px 20px 31.8px -2.5px hsl(var(--shadow-color) / 0.29);
-    --shadow-elevation-high:
-      -1px 1px 1.6px hsl(var(--shadow-color) / 0.27),
-      -4.8px 4.8px 7.6px -0.3px hsl(var(--shadow-color) / 0.27),
-      -8.5px 8.5px 13.5px -0.6px hsl(var(--shadow-color) / 0.27),
-      -12.9px 12.9px 20.5px -0.8px hsl(var(--shadow-color) / 0.27),
-      -18.9px 18.9px 30.1px -1.1px hsl(var(--shadow-color) / 0.27),
-      -27.1px 27.1px 43.1px -1.4px hsl(var(--shadow-color) / 0.27),
-      -38.6px 38.6px 61.4px -1.7px hsl(var(--shadow-color) / 0.27),
-      -54px 54px 85.9px -1.9px hsl(var(--shadow-color) / 0.27),
-      -74.2px 74.2px 118.1px -2.2px hsl(var(--shadow-color) / 0.27),
-      -100px 100px 159.1px -2.5px hsl(var(--shadow-color) / 0.27);
-  }
-
 .navbar {
     background: #131313;
     height: 80px;
@@ -401,7 +376,6 @@
     background-size: cover;
     position: relative;
     color: white;
-    --shadow-elevation-high:var(#fff);
 }
 
 .services h2{
