@@ -142,7 +142,7 @@
         height: 3px;
         margin: 5px;
         transition: 0.3s ease-in-out;
-        background: white;
+        background: black;
     }
       .navbar__item {
         width: 100%;
