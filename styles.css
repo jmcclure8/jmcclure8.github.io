@@ -161,6 +161,7 @@
         transform: translated(5%, 20%);
     }
     .navbar__links:hover {
+        color:black;
         background-color: #850a0a;
         border-radius: 4px;
     }
