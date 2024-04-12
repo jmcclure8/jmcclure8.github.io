@@ -247,7 +247,7 @@
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
-    color: white;
+    color: black;
     cursor: pointer;
     position: relative;
     transition: all 0.35s;
@@ -257,7 +257,7 @@
 .main__btn a{
     position: relative;
     z-index: 2;
-    color: white;
+    color: black;
     text-decoration: none;
 }
 .main__btn:after{
@@ -272,7 +272,7 @@
     border-radius: 4px;
 }
 .main__btn:hover{
-    color: white;
+    color: black;
 }
 .main__btn:hover:after{
     width: 100%;
