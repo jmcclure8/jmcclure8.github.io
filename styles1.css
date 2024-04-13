@@ -391,6 +391,7 @@
     position: absolute;
     right: 0;
     top: 0; /* Adjust if needed */
+    border-radius: 82% 18% 41% 59% / 69% 66% 34% 31% ;
 }
 .services__card button{
     position: absolute;
