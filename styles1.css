@@ -369,7 +369,7 @@
 .services__card {
     margin: 1rem;
     height: 400px; /* Adjusted height */
-    width: 1400px; /* Adjusted width */
+    width: 400px; /* Adjusted width */
     /* Removed border-radius */
     width: 80%;
     position: relative;
@@ -387,7 +387,7 @@
     top: 400px;
     left: 30px;
 }
-.services2__card img{
+.services__card img{
     position: absolute;
     right: 0;
     top: 0; /* Adjust if needed */
