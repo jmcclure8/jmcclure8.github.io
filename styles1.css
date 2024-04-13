@@ -352,7 +352,7 @@
 
 .services h1{
     background-color: #f6de26;
-    background-image: linear-gradient(to bottom, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
+    background-image: linear-gradient(to right, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -368,10 +368,12 @@
 }
 .services__card {
     margin: 1rem;
-    height: 400px; /* Adjusted height */
-    width: 400px; /* Adjusted width */
-    /* Removed border-radius */
-    width: 80%;
+    height: 525px;
+    width: 400px;
+    border-radius: 77% 23% 52% 48% / 61% 53% 47% 39% ;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17,17,17,0.6)100% ),
+    url('/images/projectpic2.jpg');
+    background-size: cover;
     position: relative;
     color: white;
 }
@@ -387,14 +389,8 @@
     top: 400px;
     left: 30px;
 }
-.services__card img{
-    position: absolute;
-    right: 0;
-    top: 0; 
-    border-radius: 82% 18% 41% 59% / 69% 66% 34% 31% ;
-    border-image-outset: url(/images/projectpic1.jpg);
-} 
-/*.services__card button{
+
+.services__card button{
     position: absolute;
     top: 440px;
     left: 30px;
@@ -406,13 +402,14 @@
     color: black;
     font-size: 1rem;
     cursor: pointer;
-} */
+}
+
 
 @media screen and (max-width: 960px) {
    .services{
     height: 1600px;
    }
-   .servies h1{
+   .servies2 h1{
     font-size: 2rem;
     margin-top: 12rem;
    }
