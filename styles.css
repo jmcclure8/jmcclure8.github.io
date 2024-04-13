@@ -352,7 +352,7 @@
 
 .services h1{
     background-color: #f6de26;
-    background-image: linear-gradient(to right, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
+    background-image: linear-gradient(to bottom, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
