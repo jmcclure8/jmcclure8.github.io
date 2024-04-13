@@ -387,12 +387,13 @@
     top: 400px;
     left: 30px;
 }
-.services__card img{
+/*.services__card img{
     position: absolute;
     right: 0;
-    top: 0; /* Adjust if needed */
+    top: 0; 
     border-radius: 82% 18% 41% 59% / 69% 66% 34% 31% ;
-}
+    border-image-outset: url(/images/projectpic1.jpg);
+} */
 .services__card button{
     position: absolute;
     top: 440px;
