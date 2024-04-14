@@ -446,7 +446,7 @@
     align-items: flex-end;
 }
 /* changed from services__card to services*/
-.services p {
+.services__card p {
     position: absolute;
     top: 400px;
     right: 30px; /* Adjust position to the right */
