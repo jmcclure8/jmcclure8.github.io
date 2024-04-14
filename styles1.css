@@ -501,7 +501,7 @@
 }
 .services2__container {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-wrap: wrap;
 }
 .services2__card {
