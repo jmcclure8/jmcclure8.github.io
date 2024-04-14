@@ -444,8 +444,8 @@
     position: relative;
     color: white;
 }
-
-.services__card p {
+/* changed from services__card to services*/
+.services p {
     position: absolute;
     top: 400px;
     right: 30px; /* Adjust position to the right */
