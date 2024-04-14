@@ -375,7 +375,8 @@
     url('/images/tmwrk2.jpg');
     background-size: cover;
     background-position: center;
-    position: relative;
+    position: fixed;
+    right: auto;
     color: white;
 }
 
