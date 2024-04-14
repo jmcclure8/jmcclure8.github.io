@@ -430,7 +430,7 @@
 
 
 .prompt {
-    background: #141414;
+    background: #f6de26;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -465,7 +465,7 @@
     url('/images/tmwrk2.jpg');
     background-size: cover;*/
     position: relative;
-    color: white;
+    color: #f6de26;
 }
 
 /*.prompt h2{
