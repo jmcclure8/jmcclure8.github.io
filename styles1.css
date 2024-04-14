@@ -448,7 +448,7 @@
     position: absolute;
     top: 400px;
     right: 30px; /* Adjust position to the right */
-    
+    justify-content: right;
     
 }
 
@@ -456,13 +456,15 @@
     position: absolute;
     top: 350px;
     right: 30px; /* Adjust position to the right */
+    justify-content: right;
+
 }
 
 @media screen and (max-width: 960px) {
    .services{
     height: 1600px;
    }
-   .servies2 h1{
+   .servies h1{
     font-size: 2rem;
     margin-top: 12rem;
    }
