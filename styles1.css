@@ -375,8 +375,7 @@
     url('/images/tmwrk2.jpg');
     background-size: cover;
     background-position: center;
-    position: fixed;
-    right: auto;
+    position: relative;
     color: white;
 }
 
@@ -428,95 +427,6 @@
         width: 300px;   
     }
 }
-
-
-.prompt {
-    background: #f6de26;
-    display: flex;
-    align-items: center;
-    height: 100vh;
-    width: 50%;
-    position: fixed;
-    left: 0;
-}
-
-/*.prompt h1{
-    background-color: #f6de26;
-    background-image: linear-gradient(to right, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
-    background-size: 100%;
-    margin-bottom: 5rem;
-    font-size: 2.5rem;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}*/
-.prompt__container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-.prompt__card {
-    margin: 1rem;
-    height: 525px;
-    width: 600px;
-    border-radius: 77% 23% 52% 48% / 61% 53% 47% 39% ;
-    /*background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17,17,17,0.6)100% ),
-    url('/images/tmwrk2.jpg');
-    background-size: cover;*/
-    position: relative;
-    color: #f6de26;
-}
-
-/*.prompt h2{
-    position: absolute;
-    top: 350px;
-    left: 30px;
-}*/
-
-.prompt__card p{
-    position: absolute;
-    top: 400px;
-    left: 30px;
-}
-
-/*.prompt__card button{
-    position: absolute;
-    top: 440px;
-    left: 30px;
-    padding: 10px 20px;
-    border: none;
-    outline: none;
-    border-radius: 4px;
-    background: #f6de26;
-    color: black;
-    font-size: 1rem;
-    cursor: pointer;
-}*/
-
-
-@media screen and (max-width: 960px) {
-   .prompt{
-    height: 1600px;
-   }
-   .servies2 h1{
-    font-size: 2rem;
-    margin-top: 12rem;
-   }
-}
-
-@media screen and (max-width: 480px) {
-    .prompt__card {
-        height: 1400px;
-    }
-    .prompt h1 {
-        font-size: 1.2rem;
-    }
-    .prompt__card{
-        width: 300px;   
-    }
-}
-
 
 /* Services2 section */
 
