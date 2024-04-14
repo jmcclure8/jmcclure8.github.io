@@ -370,7 +370,7 @@
     margin: 1rem;
     height: 525px;
     width: 600px;
-    border-radius: 77% 23% 52% 48% / 61% 53% 47% 39% ;
+    border-radius: 76% 24% 44% 56% / 43% 59% 41% 57% ;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17,17,17,0.6)100% ),
     url('/images/tmwrk2.jpg');
     background-size: cover;
@@ -391,7 +391,7 @@
     left: 30px;
 }
 
-.services__card button{
+/*.services__card button{
     position: absolute;
     top: 440px;
     left: 30px;
@@ -403,7 +403,7 @@
     color: black;
     font-size: 1rem;
     cursor: pointer;
-}
+}*/
 
 
 @media screen and (max-width: 960px) {
@@ -548,7 +548,7 @@
     margin: 1rem;
     height: 525px;
     width: 600px;
-    border-radius: 77% 23% 52% 48% / 61% 53% 47% 39% ;
+    border-radius: 27% 73% 28% 72% / 59% 49% 51% 41% ;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17,17,17,0.6)100% ),
     url('/images/tmwrk1.jpg');
     background-size: cover;
@@ -568,7 +568,7 @@
     left: 30px;
 }
 
-.services2__card button{
+/*.services2__card button{
     position: absolute;
     top: 440px;
     left: 30px;
@@ -580,7 +580,7 @@
     color: black;
     font-size: 1rem;
     cursor: pointer;
-}
+}*/
 
 
 @media screen and (max-width: 960px) {
@@ -635,7 +635,7 @@
     margin: 1rem;
     height: 525px;
     width: 600px;
-    border-radius: 37% 63% 73% 27% / 41% 53% 47% 59%  ;
+    border-radius: 54% 46% 58% 42% / 79% 33% 67% 21% ;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17,17,17,0.6)100% ),
     url('/images/tmwrk3.jpg');
     background-size: cover;
@@ -655,7 +655,7 @@
     left: 30px;
 }
 
-.services3__card button{
+/*.services3__card button{
     position: absolute;
     top: 440px;
     left: 30px;
@@ -667,7 +667,7 @@
     color: black;
     font-size: 1rem;
     cursor: pointer;
-}
+}*/
 
 @media screen and (max-width: 960px) {
    .services3{
