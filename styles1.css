@@ -506,8 +506,8 @@
 }
 .services2__container {
     display: flex;
-    justify-content: left;
-    flex-wrap: wrap;
+    justify-content: right;
+    flex-wrap: nowrap;
 }
 .services2__card {
     margin: 1rem;
