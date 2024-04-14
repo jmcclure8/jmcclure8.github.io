@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-   background-color: #ff9700;
-    background-image: linear-gradient(to top, #097479 0%, #ff9700 100%);
+   background-color: #f6de26;
+    background-image: linear-gradient(to top, #a70b0b 0%, #f6de26 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     background-clip: text;
@@ -88,14 +88,14 @@
     border: none;
     outline:none;
     border-radius: 4px;
-    background: #ff9700;
+    background: #f6de26;
     color: black;
 }
 /* to do a hover effect :hover*/
 
 .button:hover {
     transition: all 0.3s ease;
-    background: #e06c00;
+    background: #850a0a;
 }
 
 .navbar__links:hover {
@@ -166,7 +166,7 @@
     }
     .navbar__links:hover {
         color:black;
-        background-color: #e06c00;
+        background-color: #850a0a;
         border-radius: 4px;
     }
     .navbar_btn {
@@ -222,8 +222,8 @@
 
 .main__content h1 {
     font-size: 4rem;
-    color: #ff9700;
-    background-image: linear-gradient(to top, #097479 0%, #ff9700 100%);
+    color: #f6de26;
+    background-image: linear-gradient(to top, #a70b0b 0%, #f6de26 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     background-clip: text;
@@ -233,8 +233,8 @@
 
 .main__content h2{
     font-size: 1rem;
-    color: #ff9700;
-    background-image: linear-gradient(to top, #e06c00 0%, #f1ba0a 100%);
+    color: #f6de26;
+    background-image: linear-gradient(to top, #850a0a 0%, #f1ba0a 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     background-clip: text;
@@ -250,7 +250,7 @@
 }
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f1ba0a 0%, #ff9700 100%);
+    background-image: linear-gradient(to top, #f1ba0a 0%, #f6de26 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -274,7 +274,7 @@
     left: 0;
     width: 0;
     height: 100%;
-    background: #e06c00;
+    background: #850a0a;
     transition: all 0.35s;
     border-radius: 4px;
 }
@@ -351,8 +351,8 @@
 }
 
 .services h1{
-    background-color: #ff9700;
-    background-image: linear-gradient(to bottom, #43be7b  0%, #45ac73 0%, #45a6ac 21%, #258e94 52%, #097479 78%, #e06c00 100%);
+    background-color: #f6de26;
+    background-image: linear-gradient(to bottom, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -398,7 +398,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #ff9700;
+    background: #f6de26;
     color: black;
     font-size: 1rem;
     cursor: pointer;
@@ -442,8 +442,9 @@
 }
 
 .services2 h1{
-    background-color: #ff9700;
-    background-image: linear-gradient(to right, #43be7b  0%, #45ac73 0%, #45a6ac 21%, #258e94 52%, #097479 78%, #e06c00 100%);
+    background-color: #f6de26;
+    background-image: linear-gradient(to right, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
+    background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
     -webkit-background-clip: text;
@@ -488,7 +489,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #ff9700;
+    background: #f6de26;
     color: black;
     font-size: 1rem;
     cursor: pointer;
@@ -532,8 +533,8 @@
 }
 
 .services3 h1{
-    background-color: #ff9700;
-    background-image: linear-gradient(to right, #43be7b  0%, #45ac73 0%, #45a6ac 21%, #258e94 52%, #097479 78%, #e06c00 100%);
+    background-color: #f6de26;
+    background-image: linear-gradient(to right, #f7da00 0%, #ffe41b 0%, #ffea49 21%, #fae442 52%, #a70b0b 78%, #850a0a 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -579,7 +580,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #ff9700;
+    background: #f6de26;
     color: black;
     font-size: 1rem;
     cursor: pointer;
