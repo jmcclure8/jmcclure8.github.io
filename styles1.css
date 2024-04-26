@@ -423,7 +423,7 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
-    justify-content: right; /* Align the h1 text to the right */
+    text-align: right; /* Align the h1 text to the right */
 }
 
 .services__container {
@@ -443,19 +443,13 @@
     background-position: center;
     position: relative;
     color: white;
+    text-align: right; /* Align text in the card to the right */
 }
 
-.services__card h2 {
-    position: absolute;
-    top: 350px;
-    right: 30px; /* Adjust position to the right */
-    margin-right: 30px; /* Add some right margin for spacing */
-    text-align: right; /* Align text to the right */
-}
-
+.services__card h2,
 .services p {
     position: absolute;
-    top: 400px;
+    top: 350px; /* Adjust as needed */
     right: 30px; /* Adjust position to the right */
     margin-right: 30px; /* Add some right margin for spacing */
     text-align: right; /* Align text to the right */
@@ -465,7 +459,7 @@
    .services{
     height: 1600px;
    }
-   .servies h1{
+   .services h1{
     font-size: 2rem;
     margin-top: 12rem;
    }
@@ -474,12 +468,10 @@
 @media screen and (max-width: 480px) {
     .services__card {
         height: 1400px;
+        width: 300px;   
     }
     .services h1 {
         font-size: 1.2rem;
-    }
-    .services__card{
-        width: 300px;   
     }
 }
 
